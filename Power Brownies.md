@@ -3,11 +3,11 @@
 The goal is to make a Cliff Bar replacement
 
 
-Isolated Soy Protein	1/4 cup
+Isolated Soy Protein	1/2 cup
 Whole Oats	1/2 cup
 Rice Crispies	1/2 cup
 Unprocessed Sugar	1/2 cup
-Coconut, shredded	3 tablespoons
+Coconut, shredded	6 tablespoons
 wheat germ	2 tablespoons
 cocoa powder	2 tablespoons
 Whole Wheat Flour	2 tablespoons
@@ -24,5 +24,6 @@ Mix in wet ingredients.
 Place on some kind of gresed baking thing.
 Bake for 20-25 minutes, or until they look like they'll hold together.
 
+
 Notes:
-increase the coconut(can't taste it) or remove altogether.  Increase in soy protein believed to be acceptable.  Rice crispies provided negligible "crispiness."
+Use less sugar, that would be good.  The added coconut makes up for the sugar, so use less.
